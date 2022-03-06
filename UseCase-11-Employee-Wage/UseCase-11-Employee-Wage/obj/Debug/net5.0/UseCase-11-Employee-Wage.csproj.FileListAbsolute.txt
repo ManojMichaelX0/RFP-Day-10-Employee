@@ -1,0 +1,16 @@
+D:\.net\UseCase-11-Employee-Wage\UseCase-11-Employee-Wage\obj\Debug\net5.0\UseCase-11-Employee-Wage.csproj.AssemblyReference.cache
+D:\.net\UseCase-11-Employee-Wage\UseCase-11-Employee-Wage\obj\Debug\net5.0\UseCase-11-Employee-Wage.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\UseCase-11-Employee-Wage\UseCase-11-Employee-Wage\obj\Debug\net5.0\UseCase-11-Employee-Wage.AssemblyInfoInputs.cache
+D:\.net\UseCase-11-Employee-Wage\UseCase-11-Employee-Wage\obj\Debug\net5.0\UseCase-11-Employee-Wage.AssemblyInfo.cs
+D:\.net\UseCase-11-Employee-Wage\UseCase-11-Employee-Wage\obj\Debug\net5.0\UseCase-11-Employee-Wage.csproj.CoreCompileInputs.cache
+D:\.net\UseCase-11-Employee-Wage\UseCase-11-Employee-Wage\bin\Debug\net5.0\UseCase-11-Employee-Wage.exe
+D:\.net\UseCase-11-Employee-Wage\UseCase-11-Employee-Wage\bin\Debug\net5.0\UseCase-11-Employee-Wage.deps.json
+D:\.net\UseCase-11-Employee-Wage\UseCase-11-Employee-Wage\bin\Debug\net5.0\UseCase-11-Employee-Wage.runtimeconfig.json
+D:\.net\UseCase-11-Employee-Wage\UseCase-11-Employee-Wage\bin\Debug\net5.0\UseCase-11-Employee-Wage.runtimeconfig.dev.json
+D:\.net\UseCase-11-Employee-Wage\UseCase-11-Employee-Wage\bin\Debug\net5.0\UseCase-11-Employee-Wage.dll
+D:\.net\UseCase-11-Employee-Wage\UseCase-11-Employee-Wage\bin\Debug\net5.0\UseCase-11-Employee-Wage.pdb
+D:\.net\UseCase-11-Employee-Wage\UseCase-11-Employee-Wage\obj\Debug\net5.0\UseCase-11-Employee-Wage.dll
+D:\.net\UseCase-11-Employee-Wage\UseCase-11-Employee-Wage\obj\Debug\net5.0\refint\UseCase-11-Employee-Wage.dll
+D:\.net\UseCase-11-Employee-Wage\UseCase-11-Employee-Wage\obj\Debug\net5.0\UseCase-11-Employee-Wage.pdb
+D:\.net\UseCase-11-Employee-Wage\UseCase-11-Employee-Wage\obj\Debug\net5.0\UseCase-11-Employee-Wage.genruntimeconfig.cache
+D:\.net\UseCase-11-Employee-Wage\UseCase-11-Employee-Wage\obj\Debug\net5.0\ref\UseCase-11-Employee-Wage.dll
